@@ -5,5 +5,7 @@ import tailwind from "@astrojs/tailwind";
 
 // https://astro.build/config
 export default defineConfig({
-  integrations: [alpinejs(), tailwind()]
+  integrations: [alpinejs(), tailwind()],
+  site: 'https://dampuzakura.github.io',
+  base: '/',
 });
