@@ -28,146 +28,20 @@ const members = [
   <div class="mx-8 my-4 mt-16 space-y-4">
     <h1 class="mb-4 text-3xl font-bold">About</h1>
     <div>
-      <h2 class="mb-4 text-4xl font-semibold">私たちについて</h2>
-      <p class="text-xl">
-        テキスト
-      </p>
-    </div>
-    <div>
-      <h2 class="mb-4 text-4xl font-semibold">メンバー</h2>
-      <div class="cardParent lg:cols-2">
-        {members.map((member) => (
-          <div class="grid gap-4 p-4 card cols-3">
-            <img class="bg-gray-700 rounded-full aspect-ratio-square" src={member.image} alt={member.name} />
-            <div class="col-span-2">
-              <h3 class="text-2xl font-semibold">{member.name}</h3>
-              <p class="text-lg">{member.role}</p>
-              <p class="text-lg">{member.introduction}</p>
-            </div>
-            <div class="flex mt-4 space-x-4 text-2xl">
-              {member.website && (
-                <a
-                  href={member.website}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  class="flex items-center"
-                >
-                  <i class="i-mdi:web" />
-                </a>
-              )}
-              {member.x && (
-                <a
-                  href={member.x}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  class="flex items-center"
-                >
-                  <i class="i-simple-icons:x" />
-                </a>
-              )}
-              {member.instagram && (
-                <a
-                  href={member.x}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  class="flex items-center"
-                >
-                  <i class="i-simple-icons:instagram" />
-                </a>
-              )}
-              {member.facebook && (
-                <a
-                  href={member.facebook}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  class="flex items-center"
-                >
-                  <i class="i-simple-icons:facebook" />
-                </a>
-              )}
-              {member.linkedin && (
-                <a
-                  href={member.linkedin}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  class="flex items-center"
-                >
-                  <i class="i-simple-icons:linkedin" />
-                </a>
-              )}
-              {member.youtube && (
-                <a
-                  href={member.youtube}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  class="flex items-center"
-                >
-                  <i class="i-simple-icons:youtube" />
-                </a>
-              )}
-              {member.github && (
-                <a
-                  href={member.github}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  class="flex items-center"
-                >
-                  <i class="i-simple-icons:github" />
-                </a>
-              )}
-             {member.zenn && (
-                <a
-                  href={member.zenn}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  class="flex items-center"
-                >
-                  <i class="i-simple-icons:zenn" />
-                </a>
-              )}
-              {member.qiita && (
-                <a
-                  href={member.qiita}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  class="flex items-center"
-                >
-                  <i class="i-simple-icons:qiita" />
-                </a>
-              )}
-              {member.bluesky && (
-                <a
-                  href={member.bluesky}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  class="flex items-center"
-                >
-                  <i class="i-simple-icons:bluesky" />
-                </a>
-              )}
-              {member.mastodon && (
-                <a
-                  href={member.mastodon}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  class="flex items-center"
-                >
-                  <i class="i-simple-icons:mastodon" />
-                </a>
-              )}
-              {member.misskey && (
-                <a
-                  href={member.misskey}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  class="flex items-center"
-                >
-                  <i class="i-simple-icons:misskey" />
-                </a>
-              )}
-            </div>
-          </div>
-        ))}
+      <h2 class="mb-4 text-4xl font-semibold">私について</h2>
+      <div class="grid gap-4 cols-4">
+        <img src="https://avatars.githubusercontent.com/u/168283013" alt="段風桜 Dampuzakura" class="rounded-full aspect-ratio-square" />
+        <p class="col-span-3 text-xl">
+          こんにちは、段風桜（ダンプウザクラ）です。<br />
+          私はTovuwataという組織の代表兼創設者を務めています。<br />
+          私の名前の由来は、春のある日、心地よい暖かい風が吹き、桜の花びらが舞い落ちる美しい景色からインスピレーションを受けました。<br />
+          この名前「段風桜」には、暖かい風を意味する「暖風」と、「桜」の2つの要素が含まれています。<br />
+          桜のように美しく広く知られることを目指し、目標に向かう過程や成長を大切にしています。<br />
+          「暖」を「段」に置き換えることで、目標達成に向けたプロセスを表現しました。<br />
+          私のスキルには、HTML、CSS、JavaScript、TypeScript、Go、Pythonがあります。<br />
+          これらの技術を駆使して、魅力的で機能的なプロジェクトを創り出していきます。<br />
+          今後ともよろしくお願いいたします。
+        </p>
       </div>
     </div>
   </div>
