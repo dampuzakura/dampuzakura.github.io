@@ -4,6 +4,7 @@ import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
 import robotsTxt from 'astro-robots-txt';
 import webmanifest from 'astro-webmanifest';
+import partytown from '@astrojs/partytown';
 
 export default defineConfig({
   integrations: [
