@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/dampuzakura
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://dampuzakura.github.io
+  * I am dampuzakura (https://keybase.io/dampuzakura) on keybase.
+  * I have a public key ASCPFCtb-g-NxBz7Hxyr6Z8Op1UFJ6JAiXBhBZ9WOgbWSAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208f142b5bfa0f8dc41cfb1f1cabe99f0ea7550527a240897061059f563a06d6480a",
+      "host": "keybase.io",
+      "kid": "01208f142b5bfa0f8dc41cfb1f1cabe99f0ea7550527a240897061059f563a06d6480a",
+      "uid": "840c0b4f0e869453c15277cdf0456419",
+      "username": "dampuzakura"
+    },
+    "merkle_root": {
+      "ctime": 1725877052,
+      "hash": "99f760da43259f8495da7b6c7eec3e17624c3486b7365e98cd69c6d073bc601ede5be0b879829ba2e33ffa0f24d85dd8b18a5f5a09bd04e9d0015a48e204785a",
+      "hash_meta": "ff260e7f631063fbe02245dd22cdea30fd0486698ec957ffd6959f763ef40cb9",
+      "seqno": 26086396
+    },
+    "service": {
+      "entropy": "xYx+x3uDkDIMG5/BJbTnSGiT",
+      "hostname": "dampuzakura.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.3.1"
+  },
+  "ctime": 1725877099,
+  "expire_in": 504576000,
+  "prev": "873022a717361a32a736dd4f0a0934cfbb888e3b6272cbce56de7cb70b7d7d2e",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgjxQrW/oPjcQc+x8cq+mfDqdVBSeiQIlwYQWfVjoG1kgKp3BheWxvYWTESpcCCMQghzAipxc2GjKnNt1PCgk0z7uIjjticsvOVt58twt9fS7EIM1snRC8KTEf30LvkbFgW3yz+BWyxFHURJ9k2F5EjqgfAgHCo3NpZ8RAlGtvdcgDHWJ3l1gIubfejWrQJcK8Ylwz2eWY5cgZE94lIeOJFDOAMwYX8VCOghLdUt3QgLliuT3cS3Vk/2fPBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICl3kQWJlg/ickOQmal2ISPPEb/5iqjRMTstINjbWkLJo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dampuzakura
+
+==================================================================
