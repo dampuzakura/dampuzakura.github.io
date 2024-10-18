@@ -128,7 +128,12 @@
       icon: 'i-simple-icons:misskey',
     },
   ];
-  const reciprocalLinks = [];
+  const reciprocalLinks = [
+    {
+      name: 'なうぞめ',
+      url: 'https://nauzo.me',
+    }
+  ];
 </script>
 
 <div
