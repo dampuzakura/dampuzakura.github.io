@@ -8,7 +8,7 @@
   const name = 'Dampuzakura';
   const introduction =
     'I am a high school student from Japan who enjoys developing and taking photos.';
-  const avatar = '/dz-portfolio/images/avatar.png'; // Please enter the absolute path (including subpaths)
+  const avatar = '/images/avatar.png'; // Please enter the absolute path (including subpaths)
   const about =
     'I am a high school student from Japan. I enjoy developing and taking photos. I am not very good at creating websites, but I did my best to make this one. I usually hang out on Mastodon. Please follow me there. I want to make many friends and get along with everyone. Thank you for reading this site!';
   const place = 'Japan';
@@ -83,6 +83,11 @@
       icon: 'i-simple-icons:mastodon',
     },
     {
+      name: '@dampuzakura.fedibird.com.ap.brid.gy [bridged from Mastodon]',
+      url: 'https://bsky.app/profile/dampuzakura.fedibird.com.ap.brid.gy',
+      icon: 'i-simple-icons:bluesky',
+    },
+    {
       name: '@dampuzakura',
       url: 'https://github.com/dampuzakura',
       icon: 'i-simple-icons:github',
@@ -106,6 +111,16 @@
       name: '@dampuzakura@fedisnap.com',
       url: 'https://fedisnap.com/@dampuzakura',
       icon: 'i-simple-icons:pixelfed',
+    },
+    {
+      name: '@dampuzakura@catodon.social',
+      url: 'https://catodon.social/@dampuzakura',
+      icon: 'i-simple-icons:misskey',
+    },
+    {
+      name: '@dampuzakura@sakurajima.social',
+      url: 'https://sakurajima.social/@dampuzakura',
+      icon: 'i-simple-icons:misskey',
     },
     {
       name: '@dampuzakura@misskey.io',
