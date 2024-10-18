@@ -123,6 +123,10 @@
       icon: 'i-simple-icons:misskey',
     },
     {
+      name: '@dampuzakura@misskey.flowers',
+      url: 'https://misskey.flowers/@dampuzakura'
+    },
+    {
       name: '@dampuzakura@misskey.io',
       url: 'https://misskey.io/@dampuzakura',
       icon: 'i-simple-icons:misskey',
