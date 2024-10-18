@@ -128,6 +128,7 @@
       icon: 'i-simple-icons:misskey',
     },
   ];
+  const reciprocalLinks = [];
 </script>
 
 <div
@@ -272,12 +273,43 @@
             rel="noopener noreferrer me"
             class="flex items-center justify-center text-pink-6 dark:text-pink-4 hover:underline gap-x-2"
           >
-          {#if social.icon != ''}
-            <span class={`block ${social.icon}`} />
-          {:else if social.icon == ''}
-            <span class='block i-fluent:link-48-regular' />
-          {/if}
+            {#if social.icon != ''}
+              <span class={`block ${social.icon}`} />
+            {:else if social.icon == ''}
+              <span class="block i-fluent:link-48-regular" />
+            {/if}
             {social.name}
+          </a>
+        </li>
+      {/each}
+    </ul>
+  </div>
+</section>
+<section
+  id="reciprocal-links"
+  class="w-full p-4 py-8 mt-8 border shadow border-gray-1 rounded-xl dark:border-gray-8"
+>
+  <div class="container mx-auto">
+    <h2
+      class="mb-4 text-4xl font-bold text-center text-gray-9 dark:text-gray-1"
+    >
+      Reciprocal Links
+    </h2>
+    <p>
+      To everyone with reciprocal links, thank you always. If you would like to
+      request a reciprocal link, please contact me. I look forward to hearing
+      from you!
+    </p>
+    <ul class="grid grid-cols-1 gap-4 text-lg text-center">
+      {#each reciprocalLinks as reciprocalLink}
+        <li>
+          <a
+            href={reciprocalLink.url}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="text-3xl text-pink-6 dark:text-pink-4 hover:underline"
+          >
+            {reciprocalLink.name}
           </a>
         </li>
       {/each}

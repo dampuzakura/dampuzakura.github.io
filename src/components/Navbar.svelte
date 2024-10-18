@@ -30,6 +30,11 @@
       icon: 'i-fluent:people-add-32-regular',
       label: 'Socials',
     },
+    {
+      href: '#reciprocal-links',
+      icon: 'i-fluent:link-48-regular',
+      label: 'Reciprocal Links',
+    },
   ];
 </script>
 
