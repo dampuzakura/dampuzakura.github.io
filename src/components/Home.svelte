@@ -73,7 +73,7 @@
   ];
   const socials = [
     {
-      name: 'dampuzakura.github.io',
+      name: 'Website',
       url: 'https://dampuzakura.github.io',
       icon: '', // If the icon field is empty, a link icon will be automatically assigned.
     },
@@ -88,7 +88,7 @@
       icon: 'i-simple-icons:bluesky',
     },
     {
-      name: '@dampuzakura',
+      name: 'GitHub',
       url: 'https://github.com/dampuzakura',
       icon: 'i-simple-icons:github',
     },
@@ -136,6 +136,34 @@
       name: '@dampuzakura@misskey.io',
       url: 'https://misskey.io/@dampuzakura',
       icon: 'i-simple-icons:misskey',
+    },
+    {
+      name: 'Codeberg',
+      url: 'https://codeberg.org/dampuzakura',
+      icon: 'i-simple-icons:codeberg',
+    },
+    {
+      name: 'Crowdin',
+      url: 'https://crowdin.com/profile/dampuzakura',
+      icon: 'i-simple-icons:crowdin',
+    },
+    {
+      name: 'note',
+      url: 'https://note.com/dampuzakura',
+    },
+    {
+      name: 'しずかなインターネット',
+      url: 'https://sizu.me/dampuzakura',
+    },
+    {
+      name: 'Zenn',
+      url: 'https://zenn.dev/dampuzakura',
+      icon: 'i-simple-icons:zenn',
+    },
+    {
+      name: 'Qiita',
+      url: 'https://qiita.com/dampuzakura',
+      icon: 'i-simple-icons:qiita',
     },
   ];
   const reciprocalLinks = [
