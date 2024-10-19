@@ -124,7 +124,8 @@
     },
     {
       name: '@dampuzakura@misskey.flowers',
-      url: 'https://misskey.flowers/@dampuzakura'
+      url: 'https://misskey.flowers/@dampuzakura',
+      icon: 'i-simple-icons:misskey',
     },
     {
       name: '@dampuzakura@misskey.io',
