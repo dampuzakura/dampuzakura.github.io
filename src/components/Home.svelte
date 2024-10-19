@@ -113,6 +113,11 @@
       icon: 'i-simple-icons:pixelfed',
     },
     {
+      name: '@dampuzakura@mastodon.social',
+      url: 'https://mastodon.social/@dampuzakura',
+      icon: 'i-simple-icons:mastodon',
+    },
+    {
       name: '@dampuzakura@catodon.social',
       url: 'https://catodon.social/@dampuzakura',
       icon: 'i-simple-icons:misskey',
