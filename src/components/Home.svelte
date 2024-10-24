@@ -78,12 +78,17 @@
       icon: '', // If the icon field is empty, a link icon will be automatically assigned.
     },
     {
-      name: '@dampuzakura@fedibird.com',
+      name: 'Fedibird (AP)',
       url: 'https://fedibird.com/@dampuzakura',
       icon: 'i-simple-icons:mastodon',
     },
     {
-      name: '@dampuzakura.fedibird.com.ap.brid.gy [bridged from Mastodon]',
+      name: 'Bluesky (AT)',
+      url: 'https://bsky.app/profile/dampuzakura.github.io',
+      icon: 'i-simple-icons:bluesky',
+    },
+    {
+      name: 'Bluesky [bridged from Mastodon] (AT)',
       url: 'https://bsky.app/profile/dampuzakura.fedibird.com.ap.brid.gy',
       icon: 'i-simple-icons:bluesky',
     },
@@ -93,47 +98,57 @@
       icon: 'i-simple-icons:github',
     },
     {
-      name: '@dampuzakura',
+      name: 'X',
       url: 'https://x.com/dampuzakura',
       icon: 'i-simple-icons:x',
     },
     {
-      name: '@dampuzakura.github.io',
-      url: 'https://bsky.app/profile/dampuzakura.github.io',
-      icon: 'i-simple-icons:bluesky',
+      name: 'Nostr',
+      url: 'https://njump.me/npub14krle3mde467k7zj935rrjztrjcc533cxpkavu2lm8uegssva3ds20l6f2',
+      icon: '',
     },
     {
-      name: '@dampuzakura@fedimovie.com',
+      name: 'Nostr [bridged from Mastodon]',
+      url: 'https://njump.me/dampuzakura_at_fedibird.com@momostr.pink',
+      icon: '',
+    },
+    {
+      name: 'Fedimovie (AP)',
       url: 'https://fedimovie.com/@dampuzakura',
       icon: 'i-simple-icons:peertube',
     },
     {
-      name: '@dampuzakura@fedisnap.com',
+      name: 'Odysee',
+      url: 'https://odysee.com/@dampuzakura',
+      icon: 'i-simple-icons:odysee',
+    },
+    {
+      name: 'Pixelfed (AP)',
       url: 'https://fedisnap.com/@dampuzakura',
       icon: 'i-simple-icons:pixelfed',
     },
     {
-      name: '@dampuzakura@mastodon.social',
+      name: 'Mastodon.social (AP)',
       url: 'https://mastodon.social/@dampuzakura',
       icon: 'i-simple-icons:mastodon',
     },
     {
-      name: '@dampuzakura@catodon.social',
+      name: 'Catodon.social (AP)',
       url: 'https://catodon.social/@dampuzakura',
       icon: 'i-simple-icons:misskey',
     },
     {
-      name: '@dampuzakura@sakurajima.social',
+      name: 'Sakurajima.social (AP)',
       url: 'https://sakurajima.social/@dampuzakura',
       icon: 'i-simple-icons:misskey',
     },
     {
-      name: '@dampuzakura@misskey.flowers',
+      name: 'Misskey.flowers (AP)',
       url: 'https://misskey.flowers/@dampuzakura',
       icon: 'i-simple-icons:misskey',
     },
     {
-      name: '@dampuzakura@misskey.io',
+      name: 'Misskey.io (AP)',
       url: 'https://misskey.io/@dampuzakura',
       icon: 'i-simple-icons:misskey',
     },
@@ -148,12 +163,24 @@
       icon: 'i-simple-icons:crowdin',
     },
     {
+      name: 'Keyoxide',
+      url: 'https://keyoxide.org/aspe:keyoxide.org:TARFFBIHFYNG47IXZNCZSCIPW4',
+      icon: '',
+    },
+    {
+      name: 'Keybase',
+      url: 'https://keybase.io/dampuzakura',
+      icon: 'i-simple-icons:keybase',
+    },
+    {
       name: 'note',
       url: 'https://note.com/dampuzakura',
+      icon: '',
     },
     {
       name: 'しずかなインターネット',
       url: 'https://sizu.me/dampuzakura',
+      icon: '',
     },
     {
       name: 'Zenn',
