@@ -113,7 +113,12 @@
       icon: '',
     },
     {
-      name: 'Fedimovie (AP)',
+      name: 'Matrix',
+      url: 'https://matrix.to/#/@dampuzakura:matrix.org',
+      icon: 'i-simple-icons:matrix',
+    },
+    {
+      name: 'FediMovie (AP)',
       url: 'https://fedimovie.com/@dampuzakura',
       icon: 'i-simple-icons:peertube',
     },
@@ -123,27 +128,27 @@
       icon: 'i-simple-icons:odysee',
     },
     {
-      name: 'Pixelfed (AP)',
+      name: 'FediSnap (AP)',
       url: 'https://fedisnap.com/@dampuzakura',
       icon: 'i-simple-icons:pixelfed',
     },
     {
-      name: 'Mastodon.social (AP)',
+      name: 'mastodon.social (AP)',
       url: 'https://mastodon.social/@dampuzakura',
       icon: 'i-simple-icons:mastodon',
     },
     {
-      name: 'Catodon.social (AP)',
+      name: 'Catodon Social (AP)',
       url: 'https://catodon.social/@dampuzakura',
       icon: 'i-simple-icons:misskey',
     },
     {
-      name: 'Sakurajima.social (AP)',
+      name: 'Sakurajima Social (AP)',
       url: 'https://sakurajima.social/@dampuzakura',
       icon: 'i-simple-icons:misskey',
     },
     {
-      name: 'Misskey.flowers (AP)',
+      name: 'はなみすきー (AP)',
       url: 'https://misskey.flowers/@dampuzakura',
       icon: 'i-simple-icons:misskey',
     },
@@ -156,6 +161,11 @@
       name: 'Codeberg',
       url: 'https://codeberg.org/dampuzakura',
       icon: 'i-simple-icons:codeberg',
+    },
+    {
+      name: 'GitLab',
+      url: 'https://gitlab.com/dampuzakura',
+      icon: 'i-simple-icons:gitlab',
     },
     {
       name: 'Crowdin',
@@ -171,6 +181,16 @@
       name: 'Keybase',
       url: 'https://keybase.io/dampuzakura',
       icon: 'i-simple-icons:keybase',
+    },
+    {
+      name: 'Bluecast',
+      url: 'https://www.bluecast.app/user/@dampuzakura.github.io',
+      icon: '',
+    },
+    {
+      name: 'WhiteWind',
+      url: 'https://whtwnd.com/dampuzakura.github.io',
+      icon: '',
     },
     {
       name: 'note',
@@ -192,6 +212,21 @@
       url: 'https://qiita.com/dampuzakura',
       icon: 'i-simple-icons:qiita',
     },
+    {
+      name: 'Fiicen',
+      url: 'https://fiicen.jp/field/dampuzakura',
+      icon: ''
+    },
+    {
+      name: 'タイッツー',
+      url: 'https://taittsuu.com/users/dampuzakura',
+      icon: ''
+    },
+    {
+      name: 'Connpass',
+      url: 'https://connpass.com/user/dampuzakura/',
+      icon: '',
+    }
   ];
   const reciprocalLinks = [
     {
