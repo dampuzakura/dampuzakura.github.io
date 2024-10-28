@@ -104,7 +104,7 @@
     },
     {
       name: 'Nostr',
-      url: 'https://njump.me/npub14krle3mde467k7zj935rrjztrjcc533cxpkavu2lm8uegssva3ds20l6f2',
+      url: 'https://njump.me/npub1dpzkryjgr7c73zmat3phk8ug6q7u5nv7md65ypm4sw5c2tdesp4sjr85f7',
       icon: '',
     },
     {
@@ -174,7 +174,7 @@
     },
     {
       name: 'Keyoxide',
-      url: 'https://keyoxide.org/aspe:keyoxide.org:TARFFBIHFYNG47IXZNCZSCIPW4',
+      url: 'https://keyoxide.org/166BD371EAB7F43D7B1C13EDC98BB16D86C1E6AC',
       icon: '',
     },
     {
