@@ -83,6 +83,16 @@
       icon: 'i-simple-icons:mastodon',
     },
     {
+      name: 'mstdn.jp (AP)',
+      url: 'https://mstdn.jp/@dampuzakura',
+      icon: 'i-simple-icons:mastodon',
+    },
+    {
+      name: 'mastodon.social (AP)',
+      url: 'https://mastodon.social/@dampuzakura',
+      icon: 'i-simple-icons:mastodon',
+    },
+    {
       name: 'Bluesky (AT)',
       url: 'https://bsky.app/profile/dampuzakura.github.io',
       icon: 'i-simple-icons:bluesky',
@@ -131,11 +141,6 @@
       name: 'FediSnap (AP)',
       url: 'https://fedisnap.com/@dampuzakura',
       icon: 'i-simple-icons:pixelfed',
-    },
-    {
-      name: 'mastodon.social (AP)',
-      url: 'https://mastodon.social/@dampuzakura',
-      icon: 'i-simple-icons:mastodon',
     },
     {
       name: 'Catodon Social (AP)',
@@ -220,6 +225,11 @@
     {
       name: 'タイッツー',
       url: 'https://taittsuu.com/users/dampuzakura',
+      icon: ''
+    },
+    {
+      name: 'Concrnt',
+      url: 'https://concrnt.world/con10nu4ntyva9p2ams756shta697mgt3qgc664da0',
       icon: ''
     },
     {
