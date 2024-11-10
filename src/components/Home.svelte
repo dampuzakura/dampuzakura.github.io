@@ -242,7 +242,11 @@
     {
       name: 'なうぞめ',
       url: 'https://nauzo.me',
-    }
+    },
+    {
+      name: 'たんぬふぇでぃばーす',
+      url: 'https://xn--e1apcp8c.xn--h1adgh.xn--p1acf',
+    },
   ];
 </script>
 
