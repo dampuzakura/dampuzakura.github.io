@@ -247,6 +247,10 @@
       name: 'たんぬふぇでぃばーす',
       url: 'https://xn--e1apcp8c.xn--h1adgh.xn--p1acf',
     },
+    {
+      name: 'かんたん宛名印刷',
+      url: 'https://eap.vg',
+    }
   ];
 </script>
 
